@@ -7,8 +7,6 @@ portfolio page
 The aim of this project was to have a website to showcase my previous work and myself to the potential employer. With the website, it will attract the employer and raise their interests in employing me. 
 
 
-<!-- - What problem does it solve?
-- What did you learn? -->
 I have built my own portfolio page by using HTML and CSS files. I have used media query for the CSS file so the content adjust based on the screen size, also by using flexbox, it allowed me to adopt differnt layout for the page content. 
 
 
@@ -22,11 +20,27 @@ I have built my own portfolio page by using HTML and CSS files. I have used medi
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
+For hero section, I have created two differnt layout for screen views by using media queery: 
+For desktop, it looks like 
+![alt text](./Assets/images/untitled%20folder/About%20big.png)
+For smaller screens, it looks like 
+![alt text](./Assets/images/untitled%20folder/About%20Small.png)
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
+Moving on to portfolio section, I have also created two different layout:
+For desktop, it looks like 
+![alt text](./Assets/images/untitled%20folder/Port%20big.png)
+For smaller screens, it looks like 
+![alt text](./Assets/images/untitled%20folder/Port%20small.png)
+Addationally, with the mouse hover on the image, there should be a pop-up window to provide a title for the images, the size of this pop up also increases when hover:
+![alt text](./Assets/images/untitled%20folder/Port%20zoom.png)
 
-![alt text](assets/images/screenshot.png)
+Then for the contact secion, I have also provided two different layout for different screen sizes: 
+For desktop, it looks like 
+![alt text](./Assets/images/untitled%20folder/Contact%20big.png)
+For smaller screens, it looks like 
+![alt text](./Assets/images/untitled%20folder/Contact%20small.png)
+
+Lastly, I have linked the header items to each section on the page so they are responsive when clicks on it. 
 
 ## Credits
 
