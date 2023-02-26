@@ -26,7 +26,7 @@ For desktop, it looks like
 For smaller screens, it looks like 
 ![alt text](./Assets/images/untitled%20folder/About%20Small.png)
 When hover over the name, it should change colour and is a clickable link to LinkedIn page 
-![alt text](./Assets/images/untitled%20folder/Screenshot 2023-02-26 at 1.35.49 pm.png)
+![alt text](./Assets/images/untitled%20folder/Screenshot%202023-02-26%20at%201.35.49%20pm.png)
 
 Moving on to portfolio section, I have also created two different layout:
 For desktop, it looks like 
