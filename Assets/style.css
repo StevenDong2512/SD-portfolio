@@ -224,6 +224,20 @@ input[type=submit]:hover {
     clear: both;
 }
 
+/* Footer Style */
+
+footer{
+    text-align: center;
+    background-color: var(--teal);
+    color: var(--light);
+    padding: 40px;
+}
+
+footer h3{
+    text-align: center;
+    font-size: 25px;
+}
+
 /* Responsive Section */
 @media screen and (max-width: 1200px) {
     .hero {
