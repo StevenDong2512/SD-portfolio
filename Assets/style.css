@@ -107,6 +107,16 @@ section p {
     height: 100%;
 }
 
+a{
+    color: var(--blue);
+    text-decoration: none;
+}
+
+a:hover {
+    color: var(--lightblue);
+    text-decoration: none;
+  }
+
 /* Portfolio Style */
 .portfolio {
     background-color: var(--blue);

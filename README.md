@@ -7,8 +7,6 @@ portfolio page
 The aim of this project was to have a website to showcase my previous work and myself to the potential employer. With the website, it will attract the employer and raise their interests in employing me. 
 
 
-<!-- - What problem does it solve?
-- What did you learn? -->
 I have built my own portfolio page by using HTML and CSS files. I have used media query for the CSS file so the content adjust based on the screen size, also by using flexbox, it allowed me to adopt differnt layout for the page content. 
 
 
