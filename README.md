@@ -18,6 +18,7 @@ I have built my own portfolio page by using HTML and CSS files. I have used medi
 4. I have then added media query based on different screen sizes so the page is responsive. 
 5. Lastly I have used href on tags to hype link between pages and images for the portfolio section. 
 
+Link to my deployed app: https://stevendong2512.github.io/SD-portfolio/
 ## Usage
 
 For hero section, I have created two differnt layout for screen views by using media queery: 
